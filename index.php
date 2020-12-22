@@ -24,7 +24,7 @@ $partite = [
         [
         "casa" => "Juvecaserta",
         "ospite" => "Cantù",
-        "punti_casa" => "96",
+        "punti_casa" => "95",
         "punti_ospite" => "108",
         ],
         "quinta_partita" =>
